@@ -1,0 +1,3 @@
+httpx
+-r tests/requirements.test.txt
+-r services/gateway/v1/requirements.txt
