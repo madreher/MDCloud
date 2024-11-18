@@ -1,0 +1,5 @@
+fastapi
+fastapi[standard]
+uvicorn
+requests
+lammpsinputbuilder == 0.0.8

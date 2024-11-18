@@ -1,3 +1,4 @@
 httpx
 -r tests/requirements.test.txt
 -r services/gateway/v1/requirements.txt
+-r services/gateway/v2/requirements.txt
